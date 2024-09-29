@@ -1,0 +1,96 @@
+{
+    "header": {
+        "name": "Denis Shidogubov",
+        "title": "Frontend Developer",
+        "location": "Praha, Česká republika"
+    },
+    "contact": {
+        "email": "jobshidogubov@gmail.com",
+        "phone": "+420 774 646 085",
+        "linkedin": "https://www.linkedin.com/in/denis-shidogubov/?locale=en_US",
+        "github": "https://github.com/DenisShi"
+    },
+    "skills": [
+        "JavaScript / TypeScript",
+        "React",
+        "Redux Toolkit / MobX",
+        "Git",
+        "SCSS"
+    ],
+    "languages": [
+        {
+            "language": "Čeština",
+            "level": "Pokročilý"
+        },
+        {
+            "language": "Angličtina",
+            "level": "Středně pokročilý"
+        },
+        {
+            "language": "Ruština",
+            "level": "Rodilý mluvčí"
+        }
+    ],
+    "experience": [
+        {
+            "jobTitle": "Webový vývojář a specialista na integraci dat",
+            "company": "inComputer s.r.o.",
+            "duration": "2023 - 2024",
+            "tasks": [
+                "Vývoj dodatečné funkčnosti a stránek pomocí JavaScriptu, HTML a CSS.",
+                "Psání vlastních JavaScriptových řešení k uspokojení specifických potřeb obchodu.",
+                "Identifikace a řešení problémů v ERP systému, analýza a oprava chyb týkajících se produktových dat v protokolech.",
+                "Příprava a vytváření HTML šablon pro marketingové e-mailové kampaně."
+            ]
+        },
+        {
+            "jobTitle": "Frontend Developer",
+            "company": "Foxminded Software",
+            "duration": "2023",
+            "tasks": [
+                "Vývoj LMS (Systém pro řízení učení).",
+                "TypeScript, React, MobX, GitLab, Docker."
+            ]
+        },
+        {
+            "jobTitle": "Freelance vývoj webových stránek",
+            "duration": "2021 – 2022",
+            "tasks": [
+                "Vývoj webových stránek s webovým designem a implementací frontendu.",
+                "Vytvoření několika funkčních online obchodů s další podporou pomocí JS, CSS, HTML a low-code řešení."
+            ]
+        },
+        {
+            "jobTitle": "Systémový administrátor",
+            "company": "IT Outsourcing «Dakor»",
+            "duration": "2014 – 2018",
+            "tasks": [
+                "Správa počítačových sítí, počítačů a serverů klientských společností.",
+                "Práce s zálohovacími službami, Active Directory, Windows Server.",
+                "Řešení problémů pomocí vzdáleného přístupu a lokálního odstraňování problémů."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Kurz Frontend Developer",
+            "institution": "Programovací škola ‘Foxminded’",
+            "year": "2022"
+        },
+        {
+            "degree": "Kurzy češtiny a angličtiny",
+            "institution": "CVUT, Institut jazykového vzdělávání",
+            "year": "2020"
+        },
+        {
+            "degree": "Bakalář - Informační technologie",
+            "institution": "Státní univerzita Makarova, Petrohrad",
+            "year": "2014 - 2017"
+        },
+        {
+            "degree": "Střední odborné technické vzdělání",
+            "institution": "Rossoshanský učitelský institut",
+            "year": "2011 - 2014"
+        }
+    ]
+}

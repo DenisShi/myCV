@@ -1,0 +1,96 @@
+{
+    "header": {
+        "name": "Denis Shidogubov",
+        "title": "Frontend Developer",
+        "location": "Prague, Czech Republic"
+    },
+    "contact": {
+        "email": "jobshidogubov@gmail.com",
+        "phone": "+420 774 646 085",
+        "linkedin": "https://www.linkedin.com/in/denis-shidogubov/?locale=en_US",
+        "github": "https://github.com/DenisShi"
+    },
+    "skills": [
+        "JavaScript / TypeScript",
+        "React",
+        "Redux Toolkit / MobX",
+        "Git",
+        "SCSS"
+    ],
+    "languages": [
+        {
+            "language": "Czech",
+            "level": "Upper-Intermediate"
+        },
+        {
+            "language": "English",
+            "level": "Intermediate"
+        },
+        {
+            "language": "Russian",
+            "level": "Native"
+        }
+    ],
+    "experience": [
+        {
+            "jobTitle": "Web Developer and Data Integration Specialist",
+            "company": "inComputer s.r.o.",
+            "duration": "2023 - 2024",
+            "tasks": [
+                "Development of additional functionality and pages using JavaScript, HTML and CSS.",
+                "Wrote custom JavaScript solutions to address specific store needs.",
+                "Identified and resolved issues within the ERP system, analyzing and fixing errors related to product data in logs.",
+                "Prepared and created HTML templates for email marketing campaigns."
+            ]
+        },
+        {
+            "jobTitle": "Frontend Developer",
+            "company": "Foxminded Software",
+            "duration": "2023",
+            "tasks": [
+                "Development of LMS (Learning Management System).",
+                "TypeScript, React, MobX, GitLab, Docker."
+            ]
+        },
+        {
+            "jobTitle": "Freelance Website Development",
+            "duration": "2021 – 2022",
+            "tasks": [
+                "Website development with web design and frontend implementation.",
+                "Created several working online stores with further support using JS, CSS, HTML, and low-code solutions."
+            ]
+        },
+        {
+            "jobTitle": "System Administrator",
+            "company": "IT Outsourcing «Dakor»",
+            "duration": "2014 – 2018",
+            "tasks": [
+                "Administration of computer networks, computers, and servers of client companies.",
+                "Worked with backup services, Active Directory, Windows Server.",
+                "Solved problems using remote access and local troubleshooting."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Frontend Developer Course",
+            "institution": "‘Foxminded’ Programming School",
+            "year": "2022"
+        },
+        {
+            "degree": "Czech and English Courses",
+            "institution": "CVUT, Institute of Language Education",
+            "year": "2020"
+        },
+        {
+            "degree": "Bachelor - Information Technologies",
+            "institution": "State University Makarova, St. Petersburg",
+            "year": "2014 - 2017"
+        },
+        {
+            "degree": "Secondary Professional Technical Education",
+            "institution": "Rossoshansky Teachers College",
+            "year": "2011 - 2014"
+        }
+    ]
+}
